@@ -6,7 +6,7 @@ function App() {
   return (
     <div className='App'>
       <div>
-        <p>{store.getState() ?? 0}</p>
+        <p>{store.getState().count ?? 0}</p>
         <Button
           label='증가'
           type='ADD'
