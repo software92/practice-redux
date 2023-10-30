@@ -2,5 +2,5 @@
 
 ## 1. counter
 
-- [ ] react-redux 사용
-- [ ] react-toolkit 사용
+- [x] react-redux 사용
+- [x] react-toolkit 사용
